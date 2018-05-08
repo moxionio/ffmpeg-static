@@ -212,10 +212,10 @@ download \
   "https://github.com/xiph/speex/archive/"
 
 download \
-  "n4.0.tar.gz" \
+  "moxion.tar.gz" \
   "ffmpeg4.0.tar.gz" \
   "4749a5e56f31e7ccebd3f9924972220f" \
-  "https://github.com/FFmpeg/FFmpeg/archive"
+  "https://github.com/moxionio/FFmpeg/archive"
 
 [ $download_only -eq 1 ] && exit 0
 
