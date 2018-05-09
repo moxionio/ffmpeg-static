@@ -214,7 +214,7 @@ download \
 download \
   "moxion.tar.gz" \
   "ffmpeg4.0.tar.gz" \
-  "0ae585cdc19daad0377e9e47b2efc3dc" \
+  "3674d23b3c067d003a90c6dfcedc7c98" \
   "https://github.com/moxionio/FFmpeg/archive"
 
 [ $download_only -eq 1 ] && exit 0
